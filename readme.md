@@ -15,12 +15,13 @@
 ### **🔹 Programming Languages**
 - Python (NumPy, Pandas, Matplotlib, SciPy, Scikit-learn, TensorFlow)
 - Dart (Flutter & Firebase)
-- SQL (MySQL, SQLite, FireStore)
+- SQL (MySQL, SQLite,)
+- NoSQL(FireStore)
 - C, Java, JavaScript
 
 ### **🔹 Data Science & AI**
-- Machine Learning, Deep Learning, Neural Networks
-- Feature Engineering, Data Pipelines (Data Ingestion, Data Processing, Orchestration)
+-  Machine Learning, Deep Learning, Neural Networks
+- Data Engineering, Data Pipelines (Data Ingestion, Data Processing, Orchestration)
 - Data Visualization (Power BI, Matplotlib)
 - Web Scraping with Python (Spiders)
 
