@@ -1,31 +1,40 @@
-<h1 align="center">Hi 👋, I'm yahia aguida</h1>
-<h3 align="center">A passionate mobile app and backend developer .</h3>
+<h1 align="center">Hi 👋, I'm Yahia Aguida</h1>
+<h3 align="center">A passionate Data Scientist, AI Researcher, Backend and mobile app Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yahiaag&label=Profile%20views&color=0e75b6&style=flat" alt="yahiaag" /> </p>
 
-- 🔭 I’m currently mastering **Flutter**
+- 🔭 I’m currently working on **Data Science and AI projects**
+- 🌱 I’m learning **Machine Learning, Deep Learning, Neural Networks, Data science, Data Engineering and Cloud Computing**
+- 👯 I’m open to collaborations in **Machine Learning, Data Engineering, and AI Research**
+- 💬 Ask me about **Flutter, Backend Engineering, Data Science, Machine Learning and Deep Learning**
+- 📫 How to reach me: **y_aguida@estin.dz**
+- 🎯 Looking for an **internship in Data Science** starting **April 2025**
 
-- 🌱 I’m currently learning **Django**
+<h3 align="left">🚀 Skills & Technologies:</h3>
 
-- 👯 I’m looking to collaborate on **Flutter projects**
+### **🔹 Programming Languages**
+- Python (NumPy, Pandas, Matplotlib, SciPy, Scikit-learn, TensorFlow)
+- Dart (Flutter & Firebase)
+- SQL (MySQL, SQLite, FireStore)
+- C, Java, JavaScript
 
-- 💬 Ask me about **Flutter,backend engineering,cloud computing,data science and machine learning.**
+### **🔹 Data Science & AI**
+- Machine Learning, Deep Learning, Neural Networks
+- Feature Engineering, Data Pipelines (Data Ingestion, Data Processing, Orchestration)
+- Data Visualization (Power BI, Matplotlib)
+- Web Scraping with Python (Spiders)
 
-- 📫 How to reach me **y_aguida@estin.dz**
+### **🔹 Backend Development**
+- **Python & Django** (REST API development, Database Management)
+- **Cloud Computing** (Google Cloud Platform, Docker)
 
-<h3 align="left">Connect with me:</h3>
+### **🔹 Research & Projects**
+📌 **Visual Recognition - Food2K Kaggle**: AI-based food image classification using **Deep Learning, Feature Engineering, and Neural Networks**  
+📌 **AI Expert System for Agriculture**: Rule-based **knowledge models** for automated recommendations  
+📌 **Open-Data Bike Dashboard**: Real-time **data analysis & visualization** with **Apache Airflow, Pandas**  
+📌 **DZ-Avocat Web Directory**: Developed a **Django-based lawyer directory** using Agile Scrum methodology  
+
+<h3 align="left">📫 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yahia_aguida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yahia_aguida" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yahia aguida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yahia aguida" height="30" width="40" /></a>
-<a href="https://fb.com/yahia aguida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yahia aguida" height="30" width="40" /></a>
-<a href="https://instagram.com/yahia_aguida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yahia_aguida" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yahiaag&show_icons=true&locale=en&layout=compact" alt="yahiaag" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yahiaag&show_icons=true&locale=en" alt="yahiaag" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yahiaag&" alt="yahiaag" /></p>
+<a href="https://linkedin.com/in/yahia-aguida-b1b08618b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yahia aguida" height="30" width="40" /></
