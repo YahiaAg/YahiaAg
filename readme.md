@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yahiaag&label=Profile%20views&color=0e75b6&style=flat" alt="yahiaag" /> </p>
 
 - 🔭 I’m currently working on **Data Science and AI projects**
-- 🌱 I’m learning **Machine Learning, Deep Learning, Neural Networks, Data science, Data Engineering and Cloud Computing**
-- 👯 I’m open to collaborations in **Machine Learning, Data Engineering, and AI Research**
+- 🌱 I’m learning **Machine Learning, Deep Learning, Neural Networks, GenAI, Automation,Data Engineering, MLOps and Cloud Computing**
+- 👯 I’m open to collaborations in **Machine Learning,Deep Learning, Data Engineering, and AI Research**
 - 💬 Ask me about **Flutter, Backend Engineering, Data Science, Machine Learning and Deep Learning**
 - 📫 How to reach me: **y_aguida@estin.dz**
-- 🎯 Looking for an **internship in Data Science** starting **April 2025**
+- 🎯 Looking for an **internship in Data Science/Machine Learning** starting **Septembre 2025**
 
 <h3 align="left">🚀 Skills & Technologies:</h3>
 
