@@ -34,7 +34,7 @@
 📌 **AI Expert System for Agriculture**: Rule-based **knowledge models** for automated recommendations  
 📌 **Open-Data Bike Dashboard**: Real-time **data analysis & visualization** with **Apache Airflow, Pandas**  
 📌 **DZ-Avocat Web Directory**: Developed a **Django-based lawyer directory** using Agile Scrum methodology  
-📌 **Lidar Depth Maps Densification & Semantic Segmentation** with **KNN, HDBSCAN, DeepLabV3+, Meta Detectron 2, CityScapes, COCO, fine-tuning**
+📌 **Lidar Depth Maps Densification & Semantic Segmentation** with **KNN, HDBSCAN, DeepLabV3+, Meta Detectron 2, CityScapes, COCO, fine-tuning** :
 Depth Densification & Semantic Segmentation Pipeline for autonomus driving projects, datasets or models
 
 <h3 align="left">📫 Connect with me:</h3>
