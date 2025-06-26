@@ -7,7 +7,7 @@
 - 🌱 I’m learning **Machine Learning, Deep Learning, Neural Networks, GenAI, Automation,Data Engineering, MLOps and Cloud Computing**
 - 👯 I’m open to collaborations in **Machine Learning,Deep Learning, Data Engineering, and AI Research**
 - 💬 Ask me about **Flutter, Backend Engineering, Data Science, Machine Learning, Computer Vision, Deep Learning and LLMs**
-- 📫 How to reach me: **aguidayahiaabdelazize@gmail.com**
+- 📫 How to reach me: **yahia.aguida.dev@gmail.com**
 - 🎯 Looking for an **internship in France in Data Science/Machine Learning** starting **Septembre 2025**
 
 <h3 align="left">🚀 Skills & Technologies:</h3>
